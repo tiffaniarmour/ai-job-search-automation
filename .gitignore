@@ -1,0 +1,8 @@
+.env
+*.env
+node_modules/
+*.log
+credentials.json
+secrets.json
+.n8n/
+*.sqlite
